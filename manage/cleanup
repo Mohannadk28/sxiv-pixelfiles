@@ -8,6 +8,7 @@ rm -rf ./*.rej
 rm -rf ./*.diff
 
 rm -rf ./config.h
+rm -rf ./version.h
 
 rm -rf ./sxiv
 
